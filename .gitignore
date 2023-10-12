@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Files generated when running yarn init
+.editorconfig
+.gitattributes
+.pnp.rts2_cache_cjs
